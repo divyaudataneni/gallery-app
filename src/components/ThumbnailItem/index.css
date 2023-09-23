@@ -1,0 +1,20 @@
+/* Write your code here. */
+
+li {
+  list-style-type: none;
+  margin-left: 0px;
+  margin-right: 10px;
+}
+.button {
+  background: transparent;
+  border: none;
+}
+.list-icon {
+  height: 50px;
+  width: 60px;
+  cursor: pointer;
+  opacity: 0.5;
+}
+.active-icon {
+  opacity: 1;
+}
